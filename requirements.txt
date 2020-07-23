@@ -1,8 +1,12 @@
 voila
 voila-material
-pandas
-ipywidgets
+__future__ 
+ipywidgets 
+IPython.core.display
+numpy 
+pandas 
+matplotlib
 plotly
-folium
-matpoltlib
-numpy
+folium 
+seaborn 
+ipywidgets
