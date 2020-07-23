@@ -1,7 +1,6 @@
 voila
 voila-material
 ipywidgets 
-IPython.core.display
 numpy 
 pandas 
 matplotlib
