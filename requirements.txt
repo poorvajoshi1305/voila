@@ -9,6 +9,4 @@ folium
 seaborn 
 interact
 bqplot
-matplotlib.pypotly
-plotly.graph_objects
-IPython.core.display
+ipython
