@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --theme=dark --enable_nbextensions=True notebooks/Grosscases.ipynb
+web: voila --port=$PORT --no-browser --template=material  --enable_nbextensions=True notebooks/Grosscases.ipynb
