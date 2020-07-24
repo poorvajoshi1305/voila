@@ -7,7 +7,7 @@ matplotlib
 plotly
 folium 
 seaborn 
-ipywidgets.interact
+interact
 bqplot
 matplotlib.pypotly
 plotly.graph_objects
