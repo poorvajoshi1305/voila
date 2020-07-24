@@ -16,4 +16,4 @@ jinja2
 requests
 altair
 geojson
-map
+maps
