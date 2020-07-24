@@ -10,3 +10,10 @@ seaborn
 interact
 bqplot
 ipython
+geopandas
+branca
+jinja2
+requests
+altair
+geojson
+map
